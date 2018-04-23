@@ -1,0 +1,21 @@
+{
+    "name": "romaloverboy/yii2-partner",
+    "description": "This is a module that extends the landing project",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," partner"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuzmin",
+            "email": "kuzmin.sto@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "romaloverboy\\partner\\": ""
+        }
+    }
+}
